@@ -1,0 +1,66 @@
+body {
+    background-image: url("images/news paper dark theme.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.stApp {
+    background-image: url("images/news paper dark theme.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sidebar .sidebar-content {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.stButton>button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #007bff;
+}
+
+.content-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.reference-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.reference-link:hover {
+    text-decoration: underline;
+}
