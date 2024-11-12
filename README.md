@@ -95,10 +95,12 @@ The tool relies on a Retrieval-Augmented Generation (RAG) architecture, a popula
 - Users can ask questions based on the content of the indexed articles, and the tool will return relevant answers along with article URLs for context.
 
 ## Example Articles Used
-
-- [^1]: [Tata Motors Gains Certificates for Production-Linked Payouts](https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html)
-- [^2]:[Tata Motors Launches Punch ICNG](https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html)
-- [^3]:[Buy Tata Motors: Target of Rs 743](https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html)
+- Tata Motors Gains Certificates for Production-Linked Payouts [^1]
+- Tata Motors Launches Punch ICNG [^2]
+- Buy Tata Motors: Target of Rs 743 [^3]
+ [^1]: [Tata Motors Gains Certificates for Production-Linked Payouts](https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html)
+ [^2]:[Tata Motors Launches Punch ICNG](https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html)
+  [^3]:[Buy Tata Motors: Target of Rs 743](https://www.moneycontrol.com/news/business/stocks/buy-tata-motors-target-of-rs-743-kr-choksey-11080811.html)
 
 
 
