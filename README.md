@@ -119,6 +119,4 @@ This tool showcases how Gen AI can support real-world research tasks, with pract
 - **Retail**: Researching and analyzing industry news for strategic planning.
 - **Education**: Providing answers to complex queries using FAQ content.
 
-## Learning Resources
-
-This project is also available as an open-source educational tool with a video tutorial.
+#LINKS
